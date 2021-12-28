@@ -1,3 +1,6 @@
+# graph documentation
+# http://www.infocity.kiev.ua/prog/python/content/pytonesse_3.shtml
+
 dict_graph = {}
 
 n = int(input())

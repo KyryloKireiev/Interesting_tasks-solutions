@@ -1,6 +1,9 @@
 # the task
 # https://stepik.org/lesson/24463/step/7?unit=6771
 
+# graph documentation
+# http://www.infocity.kiev.ua/prog/python/content/pytonesse_3.shtml
+
 dict_graph = {}
 
 n = int(input())
